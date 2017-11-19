@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">iak</string>
+  <string name="send">Send</string>
+  <string name="title_activity_main_pesanan">MainPesananActivity</string>
+</resources>
